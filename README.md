@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jarvis Engineering Diagnostic System
 
 An advanced AI-powered engineering diagnostic assistant that combines computer vision, voice recognition, and natural language processing to analyze engineering projects in real-time.
@@ -250,3 +251,7 @@ Feel free to submit issues, feature requests, or pull requests to improve the sy
 ---
 
 **Jarvis Engineering Diagnostic System** - Your AI-powered engineering assistant! 🔧🤖
+=======
+# Jarvis-Engineering-Tool
+Jarvis is a AI Automated tool that takes voice and video feedback and gives you solutions to issues like wiring, voltage and mounting problems. It can run a diagnostic on a video and tell you where your issue lies. 
+>>>>>>> fee9de3240402e6c0caae1f070a5ffd63261d5a1
