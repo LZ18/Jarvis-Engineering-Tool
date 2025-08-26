@@ -1,0 +1,15 @@
+openai>=1.0.0
+whisper
+sounddevice
+scipy
+python-dotenv
+edge-tts
+playsound
+numpy
+opencv-python
+pillow
+matplotlib
+torch
+torchvision
+transformers
+ultralytics

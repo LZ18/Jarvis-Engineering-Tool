@@ -1,0 +1,15 @@
+# OpenAI API Configuration
+# Get your API key from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: Customize voice settings
+# Available voices: en-GB-RyanNeural, en-US-JennyNeural, en-AU-NatashaNeural
+TTS_VOICE=en-GB-RyanNeural
+
+# Optional: Camera settings
+# CAMERA_INDEX=0  # Default camera (usually built-in webcam)
+# VIDEO_DURATION=3  # Duration to capture video (seconds)
+
+# Optional: Audio settings
+# AUDIO_DURATION=5  # Duration to record voice (seconds)
+# SAMPLE_RATE=44100  # Audio sample rate
